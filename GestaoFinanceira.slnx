@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/GestaoFinanceira.Api/GestaoFinanceira.Api.csproj" />
+    <Project Path="src/GestaoFinanceira.Application/GestaoFinanceira.Application.csproj" />
+    <Project Path="src/GestaoFinanceira.Domain/GestaoFinanceira.Domain.csproj" />
+    <Project Path="src/GestaoFinanceira.Infrastructure/GestaoFinanceira.Infrastructure.csproj" />
+    <Project Path="src/GestaoFinanceira.Worker/GestaoFinanceira.Worker.csproj" />
+  </Folder>
+</Solution>
