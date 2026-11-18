@@ -481,5 +481,5 @@ $RECYCLE.BIN/
 # Vim temporary swap files
 *.swp
 
-# temporario
-*.appsettings.Development.json
+src/GestaoFinanceira.Api/appsettings.Development.json
+
