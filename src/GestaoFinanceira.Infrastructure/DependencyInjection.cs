@@ -19,7 +19,7 @@ public static class DependencyInjection
 
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(connectionString));
-
+        services.AddSingleton(TimeProvider.System);
         return services;
     }
 }
